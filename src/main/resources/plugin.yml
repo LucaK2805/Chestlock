@@ -1,0 +1,4 @@
+name: Chestlock
+version: '${project.version}'
+main: test.chestlock.Chestlock
+api-version: '1.20'

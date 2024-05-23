@@ -1,0 +1,4 @@
+name: Chestlock
+version: '1.0'
+main: test.chestlock.Chestlock
+api-version: '1.20'
